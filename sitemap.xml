@@ -8,19 +8,4 @@
     <priority>1.0</priority>
   </url>
   
-  <!-- Página de Letras Diferentes FF -->
-  <url>
-    <loc>https://letrasdifferentes.com/letras-diferentes-ff/</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Página de Fontes para Instagram -->
-  <url>
-    <loc>https://letrasdifferentes.com/fontes-para-instagram/</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
 </urlset>
